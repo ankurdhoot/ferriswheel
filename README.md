@@ -1,6 +1,6 @@
 # Product Classification Challenge
 
-I used a purely computer vision approach (no use of product description) to classify each image. The output contains the top two product categories, along with their corresponding probabilites according to the classifier.
+I used a purely computer vision approach (no use of product description) to classify each image. The output contains the top two product categories, along with their corresponding probabilites according to the classifier. The classifier is built using the fastai library and the Jupyter notebook mirrors the same process as done in the first couple of lessons of the fastai course.
 
 To speed up training, I used a model pretrained on ImageNet.
 
